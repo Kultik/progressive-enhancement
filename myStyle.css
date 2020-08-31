@@ -1,4 +1,39 @@
+body {
+    font-size: 130%;
+    background-color: cyan;
+    margin: 5%;
+    width: 90%;
+}
+
 p {
     color: darkred;
-    font-family: serif;
+    font-family: serif;   
+}
+
+.parent {
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+q {
+    margin-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-size: 160%;
+    background-color: lightgrey;
+    border-left: 3px solid bisque;
+    padding-left: 30px;
+}
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: khaki;
+}
+
+.bien {
+    color:green
+}
+.mal {
+    color:red
 }
